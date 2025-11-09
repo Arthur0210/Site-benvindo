@@ -175,7 +175,7 @@ export default function Benefits() {
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Segurança Alimentar</h3>
             <p className="text-gray-700 leading-relaxed mb-4">
               Diante do crescimento constante da população mundial, o melhoramento genético se torna essencial para a produção de alimentos em maior quantidade e com menor uso de recursos. Esse avanço contribui significativamente para a segurança alimentar global.
-            </t>
+            </p>
             <p className="text-gray-700 leading-relaxed">
               Além disso, o aumento da produtividade permite liberar áreas agrícolas para conservação ambiental, reduzindo a pressão sobre os ecossistemas naturais.
             </p>
